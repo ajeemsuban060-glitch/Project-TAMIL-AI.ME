@@ -1,7 +1,7 @@
 # Project-TAMIL-AI.ME
 creating the AI for world first language
 # Thirukkural (திருக்குறள்) Dataset
-
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjItF0LLYhnYnszC-47pSI0mLZSc8ccLsoV6xj_BKC-MEUedk2pWZAACb0n21tkjAGVMOKL7C9mkIViS760twkMOJdso-EuwCgIMJslkeJgdLTT-R07HHIteb2PdV586ijj2wo6xmBaYuU/s230/thiruvalluvar.gif
 The Tirukkural or Thirukkural (literally Sacred Verses), or shortly the Kural, is a classic Tamil sangam literature consisting of 1330 couplets or kurals, dealing with the everyday virtues of an individual.
 Considered as chef d'oeuvre of both Indian and world literature, the Tirukkural is one of the most important works in the Tamil language.
 
