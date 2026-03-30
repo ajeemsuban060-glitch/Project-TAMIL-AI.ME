@@ -21,3 +21,6 @@ This file contains all the chapter names, a total of 133.
 ### Note
 If you wish to get thirukkural in a structured format (json) with rich content,
 checkout this [repo](https://github.com/tk120404/thirukkural)
+* அதிகாரம்/Chapter/Adhigaram,
+* இயல்/ChapterGroup/Iyal,
+* பால்/Section/Paal.
