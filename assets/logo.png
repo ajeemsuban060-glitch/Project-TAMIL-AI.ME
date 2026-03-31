@@ -1,1 +1,7 @@
+git clone https://github.com/ajeemsuban060-glitch/Project-TAMIL-AI.ME.git
+cd Project-TAMIL-AI.ME
+rm -rf assets
+git add -A
+git commit -m "Remove assets folder"
+git push origin main
 
