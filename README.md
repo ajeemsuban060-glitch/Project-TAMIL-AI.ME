@@ -2,10 +2,7 @@
 creating the AI for world first language
 # Thirukkural (திருக்குறள்) Dataset
 
-mkdir assets
-git add assets/logo.png
-git commit -m "Add assets folder with logo"
-git push
+logo.png
 
 
 
