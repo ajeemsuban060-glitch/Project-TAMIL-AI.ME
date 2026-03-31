@@ -2,6 +2,13 @@
 creating the AI for world first language
 # Thirukkural (திருக்குறள்) Dataset
 
+mkdir assets
+git add assets/logo.png
+git commit -m "Add assets folder with logo"
+git push
+
+
+
 The Tirukkural or Thirukkural (literally Sacred Verses), or shortly the Kural, is a classic Tamil sangam literature consisting of 1330 couplets or kurals, dealing with the everyday virtues of an individual.
 Considered as chef d'oeuvre of both Indian and world literature, the Tirukkural is one of the most important works in the Tamil language.
 
