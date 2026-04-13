@@ -3,7 +3,7 @@ creating the AI for world first language
 # Thirukkural (திருக்குறள்) Dataset
 
 
-![Project Logo](logo.png)
+![Project Logo](thiruvalluvar.png)
 
 
 
